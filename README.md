@@ -1,2 +1,1 @@
-Built a GUI-based system using Python/Tkinter to automate invoice generation, reducing manual errors by 30%. 
-Tools: Used Tkinter and PDF generation libraries.
+ Developed a Python-based interactive cafe ordering system that simulates real-world beverage transactions with a themed user interface.
